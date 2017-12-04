@@ -31,8 +31,6 @@ Presenter: Danielius Visockas
 About: Using to state-of-the art computer vision models (Inception and Easy Transfer Learning) for your own projects. There have been some huge recent advancements in the field of computer vision, but one of the biggest of them is the availability of the state-of-the-art models because of the ImageNet competition.
 
 ---
-
----
 ## [Meetup #3 (2017-10-26)](2017-10-26/)
 
 [Presentation: Kaggle: A path to becoming an AI expert & winning data science competitions](2017-10-26/pydata_kaunas_20171026.pdf)
