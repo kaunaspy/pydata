@@ -40,3 +40,38 @@ Presenter: Darius Barušauskas
 About: Kaggle is a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
 
 ---
+## Meetup #4 (2018-01-11)
+
+Open Space
+
+Presenter: Everyone
+
+No presentation this time. Just open space for communication about Python and data.
+
+---
+## Meetup #5 (2018-01-11)
+
+Presentation: Scikit-learn: Machine Learning in Python
+
+Presenter: Irina Matijosaitiene
+
+Irina Matijosaitine is Data Science Researcher for Smart Cities, PhD. Assoc. Prof. Kaunas University of Technology/Yale University. Theme: data pre-processing ir classification tasks (logistic, Naive Bayes, Decision Tree, K-NN, svm). Based on Kaggle competitions.
+
+---
+## [Meetup #6 (2018-02-15)](2018-02-15/)
+
+[Presentation: Building a Robot That Learns How to Drive by Himself](2018-02-15/genetic_evolution_pydata.pdf)
+
+Presenter: Evaldas Kazlauskis
+
+During 20 min presentation Evaldas will talk about how I built a simple self-driving robot using machine learning. Presentation will focus on ideas and methods behind artificial genetic evolution, how it resembles nature and how it can be used to solve tasks.
+
+---
+
+Workshop: Digit Recognition Workshop(tf/keras)
+
+Presenter:  Marius Ivaskevicius
+
+The digit recognition workshop. What we'll do? Marius Ivaskevicius will lead a workshop based on https://www.kaggle.com/c/digit-recognizer kaggle competition.
+
+---
