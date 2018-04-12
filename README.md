@@ -75,3 +75,25 @@ Presenter:  Marius Ivaskevicius
 The digit recognition workshop. What we'll do? Marius Ivaskevicius will lead a workshop based on https://www.kaggle.com/c/digit-recognizer kaggle competition.
 
 ---
+## Meetup #7 (2018-03-15)
+
+[Presentation: Online Machine Learning](https://slides.com/dariusaliulis/online-ml)
+
+Presenter: Darius Aliulis
+
+Online Machine Learning deals with machine learning model updates.
+When new data arrives training new model every time is inefficient: online learning solves that.
+In this presentation we will cover Scikit-Learn models that allow PARTIAL FITTING.
+We will also be introduced to Vowpal Wabbit, a production-grade machine learning library for online learning.
+https://en.wikipedia.org/wiki/Online_machine_learning
+
+---
+## [Meetup #8 (2018-04-05)](2018-04-05/)
+
+[Presentation: Analysis of Lithuanian texts: a case of moon and femininity](2018-04-05/)
+
+Presenter: Evaldas Vaičiukynas
+
+Abstract: Presentation will discuss machine learning task of text classification. Text corpora was ASTRA stenograms, containing 110905 Lithuanian parliamentary transcripts from 147 speakers, collected during 1990 March - 2013 December. Texts were categorized by the political partisanship of a speaker, the gender of a speaker and the fact that a transcript was recorded around a full moon date. Types of pre-processing considered: original text, lemmized, morphized and translated to English. Lemmas and morphemes were obtained using semantika.lt and English translation using Google Translate services. Feature sets investigated: 6 from gensim (3 Doc2Vec variants, LSI, LDA, RP), 1 from fastText (Sent2Vec), and 3 custom-made (morfologija, stilometNER, ontologija). Random forest was used as a base-learner as well as a meta-learner (in 7 "stacking" configurations). Experiments reveal which categories, which types of pre-processing and which feature sets appear to be the most successful for texts analysed.
+
+---
